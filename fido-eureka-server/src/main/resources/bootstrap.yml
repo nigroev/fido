@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fido-eureka-server
+  cloud:
+    config:
+      uri: http://localhost:9090
